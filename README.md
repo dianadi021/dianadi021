@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### About me 👦
+Nickname        : Adi
+Fullname        : Dian Adi Nugroho
+Date of birth   : 11 July 2000
+Location        :「Lampung - Yogyakarta - Indonesia」
+Website         : [Dian Adi Nugroho](https://dianadi021.github.io/)
+
+• Founder of SKUAD
+• Leader of SKUAD Dolan® [@skuadolan](https://www.instagram.com/skuadolan/)
+• Organizations [SKUAD Production®](https://github.com/skuadproduction)
