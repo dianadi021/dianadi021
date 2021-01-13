@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 #### About me 👦
-Nickname        : Adi
-Fullname        : Dian Adi Nugroho
-Date of birth   : 11 July 2000
-Location        :「Lampung - Yogyakarta - Indonesia」
-Website         : [Dian Adi Nugroho](https://dianadi021.github.io/)
+Nickname        : Adi<br/>
+Fullname        : Dian Adi Nugroho<br/>
+Date of birth   : 11 July 2000<br/>
+Location        :「Lampung - Yogyakarta - Indonesia」<br/>
+Website         : [Dian Adi Nugroho](https://dianadi021.github.io/)<br/>
 
-• Founder of SKUAD
-• Leader of SKUAD Dolan® [@skuadolan](https://www.instagram.com/skuadolan/)
-• Organizations [SKUAD Production®](https://github.com/skuadproduction)
+• Founder of SKUAD<br/>
+• Leader of SKUAD Dolan® [@skuadolan](https://www.instagram.com/skuadolan/)<br/>
+• Organizations [SKUAD Production®](https://github.com/skuadproduction)<br/>
