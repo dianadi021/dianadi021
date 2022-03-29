@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 • Founder of SKUAD<br/>
 • Leader of SKUAD™ Dolan [@skuadolan](https://www.instagram.com/skuadolan/)<br/>
-• Organizations [SKUAD Production©](https://github.com/skuadproduction)<br/>
+• Organizations [©SKUAD Production](https://github.com/skuadproduction)<br/>
