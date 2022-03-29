@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 
 ## About me 👦
 ### Nickname
->: Adi<br/>
+>Adi<br/>
 ### Fullname
->: Dian Adi Nugroho<br/>
+>Dian Adi Nugroho<br/>
 ### Date of birth
->: 11 July 2000<br/>
+>11 July 2000<br/>
 ### Location
->:「Lampung - Yogyakarta - Indonesia」<br/>
+>Lampung - Yogyakarta - Indonesia」<br/>
 ### Bio
->: [Dian Adi Nugroho](https://dianadi021.github.io/)<br/>
+>[Dian Adi Nugroho](https://dianadi021.github.io/)<br/>
 
 • Founder of SKUAD<br/>
 • Leader of SKUAD Dolan® [@skuadolan](https://www.instagram.com/skuadolan/)<br/>
