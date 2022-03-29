@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### About me 👦
-##### Nickname
+## About me 👦
+### Nickname
 >: Adi<br/>
-##### Fullname
+### Fullname
 >: Dian Adi Nugroho<br/>
-##### Date of birth
+### Date of birth
 >: 11 July 2000<br/>
-##### Location
+### Location
 >:「Lampung - Yogyakarta - Indonesia」<br/>
-##### Bio
+### Bio
 >: [Dian Adi Nugroho](https://dianadi021.github.io/)<br/>
 
 • Founder of SKUAD<br/>
