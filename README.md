@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### Date of birth
 >11 July 2000<br/>
 ### Location
->Lampung - Yogyakarta - Indonesia」<br/>
+>「Lampung - Yogyakarta - Indonesia」<br/>
 ### Bio
 >[Dian Adi Nugroho](https://dianadi021.github.io/)<br/>
 
