@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 >[Dian Adi Nugroho](https://dianadi021.github.io/)<br/>
 
 • Founder of SKUAD<br/>
-• Leader of SKUAD Dolan® [@skuadolan](https://www.instagram.com/skuadolan/)<br/>
+• Leader of SKUAD™ Dolan [@skuadolan](https://www.instagram.com/skuadolan/)<br/>
 • Organizations [SKUAD Production©](https://github.com/skuadproduction)<br/>
