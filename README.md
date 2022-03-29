@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there 👋
 
 <!--
 **dianadi021/dianadi021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 >: 11 July 2000<br/>
 ##### Location
 >:「Lampung - Yogyakarta - Indonesia」<br/>
-##### Website
+##### Bio
 >: [Dian Adi Nugroho](https://dianadi021.github.io/)<br/>
 
 • Founder of SKUAD<br/>
