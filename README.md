@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 >Adi<br/>
 ### Fullname
 >Dian Adi Nugroho<br/>
-### Date of birth
->11 July 2000<br/>
 ### Location
 >「Lampung - Yogyakarta - Indonesia」<br/>
 ### Bio
