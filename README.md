@@ -15,13 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About me 👦
-### Nickname
->Adi<br/>
-### Fullname
->Dian Adi Nugroho<br/>
-### Location
->「Lampung - Yogyakarta - Indonesia」<br/>
 ### Bio
 >[Dian Adi Nugroho](https://dianadi021.github.io/)<br/>
 ### Programming
